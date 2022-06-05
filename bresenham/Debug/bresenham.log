@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\ericm\dev\opengl\bresenham\main.cpp(38,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ericm\dev\opengl\bresenham\main.cpp(39,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ericm\dev\opengl\bresenham\main.cpp(82,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ericm\dev\opengl\bresenham\main.cpp(83,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  bresenham.vcxproj -> C:\Users\ericm\dev\opengl\bresenham\Debug\bresenham.exe
